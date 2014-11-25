@@ -1,0 +1,13 @@
+bin/
+gen/
+build/
+*build/*
+*.iml
+.project
+.classpath
+./app/bin/
+.idea
+out/
+.gradle/
+*.apk
+*.iml
