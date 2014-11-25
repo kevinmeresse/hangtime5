@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/kevin/Work/Hangtime5/app/build/intermediates/pre-dexed/debug/classes-9d05d414cf930573caa70ec4bc0fed66eac73425.jar"
+        jar="/Users/kevin/Work/Hangtime5/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/Users/kevin/Work/Hangtime5/app/build/intermediates/pre-dexed/debug/classes-5b420c8f7e5918004958891ae8a2385eca843ac7.jar"
+        jar="/Users/kevin/Work/Hangtime5/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c"/>
+    <item
+        dex="/Users/kevin/Work/Hangtime5/app/build/intermediates/pre-dexed/debug/classes-5d557247deb5a90e1c42ee2b5e20295bb095a078.jar"
+        jar="/Users/kevin/Work/Hangtime5/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d"/>
+    <item
+        dex="/Users/kevin/Work/Hangtime5/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-233480cd3cb54ed500789b0f2096352f64d7372d.jar"
+        jar="/Users/kevin/Documents/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/Users/kevin/Work/Hangtime5/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d16195b8211d76958cf3ba419c2d428b782c6188.jar"
+        jar="/Users/kevin/Work/Hangtime5/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+
+</pre-dex-items>

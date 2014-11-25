@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="orange">#ff9100</color>
+    <color name="orange_dark">#be6b01</color>
+    <color name="orange_light">#feb24d</color>
+    <color name="turquoise_accent">#009688</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000000</color>
+
+
+
+
+    <!-- Default colors from Material Design Guidelines -->
+
+    <!-- Default light bg -->
+    <color name="main_background_grey">#eeeeee</color>
+    <!-- Default primary text color for light theme -->
+    <color name="black_transparent_87">#DE000000</color> <!-- The HEX value of a 87% transparency is DE -->
+    <!-- Default secondary text color for light theme -->
+    <color name="black_transparent_54">#8A000000</color> <!-- The HEX value of a 54% transparency is 8A -->
+    <!-- Default disabled text color for light theme -->
+    <color name="black_transparent_26">#42000000</color> <!-- The HEX value of a 26% transparency is 42 -->
+
+    <!-- Default dark bg -->
+    <color name="main_background_black">#212121</color>
+    <!-- Default primary text color for dark theme -->
+    <color name="white">#ffffffff</color> <!-- The HEX value of no transparency is FF -->
+    <!-- Default secondary text color for dark theme -->
+    <color name="white_transparent_70">#B3ffffff</color> <!-- The HEX value of a 70% transparency is B3 -->
+    <!-- Default disabled text color for dark theme -->
+    <color name="white_transparent_30">#4Dffffff</color> <!-- The HEX value of a 30% transparency is 4D -->
+
+</resources>

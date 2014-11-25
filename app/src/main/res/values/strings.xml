@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangtime</string>
+
+    <!-- Menu -->
+    <string name="menu_my_profile">My Profile</string>
+    <string name="menu_my_friends">My Friends</string>
+    <string name="menu_my_interests">My Interests</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_feedback">Send Feedback</string>
+    <string name="menu_login">Login</string>
+
+    <!-- Event list sub menu -->
+    <string name="filter_popular">Popular This Week</string>
+
+    <!-- Content description -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_create_event">Create event</string>
+
+    <!-- Actions -->
+    <string name="action_my_events">My Events</string>
+    <string name="action_notifications">Notifications</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Sources -->
+    <string name="source_launch">Launch</string>
+
+</resources>
